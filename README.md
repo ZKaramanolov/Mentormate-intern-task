@@ -2,7 +2,7 @@
 
 ### This is NodeJS
 
-##### Example for execution
+##### Example for execution:
 
 'node script.js 7'
 
